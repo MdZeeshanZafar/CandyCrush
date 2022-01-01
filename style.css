@@ -1,0 +1,33 @@
+
+h1 {
+    text-align: center;
+    color: chartreuse;
+}
+h3 {
+    text-align: center;
+    color: coral;
+}
+h2 {
+    text-align: center;
+    color: crimson;
+}
+footer {
+    text-align: center;
+    color:darkgoldenrod;
+}
+.grid {
+    flex-wrap: wrap;
+    height: 560px;
+    width: 560px;
+    display: flex;
+    
+        
+    margin-left: auto;
+    margin-right: auto;
+        
+      
+}
+.grid div {
+    height: 70px;
+    width: 70px;
+}
